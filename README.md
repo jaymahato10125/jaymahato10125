@@ -73,7 +73,7 @@ Full-stack blog platform with JWT authentication, role-based CRUD authorization,
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=jaymahato10125&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=jaymahato10125&theme=dark&hide_border=false&include_all_commits=true&count_private=true&hide=prs,issues,contribs" />
   <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=jaymahato10125&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
